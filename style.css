@@ -1,0 +1,18 @@
+img {
+  width: 800px;
+  padding: 0 0 20px 0;
+}
+
+.container {
+  width: 860px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgb(213, 212, 212);
+  border: 6px solid rgb(236, 236, 236);
+  border-radius: 10px;
+  padding: 10px 0;
+}
+
+h1 {
+  color: rgb(255, 125, 73);
+}
