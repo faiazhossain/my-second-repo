@@ -5,7 +5,7 @@ img {
 
 .container {
   width: 860px;
-  margin: 0 auto;
+  margin: 20px auto;
   text-align: center;
   background-color: rgb(213, 212, 212);
   border: 12px solid rgb(134, 151, 158);
